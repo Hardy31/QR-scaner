@@ -1,0 +1,21 @@
+Исходное видио -
+https://www.youtube.com/watch?v=ZKdRCq27XHc&t=91s
+
+Отправка Http
+https://www.youtube.com/watch?v=uMRHj8U0pSM
+
+Библтоьека OkHTTP
+https://www.baeldung.com/guide-to-okhttp
+https://habr.com/ru/articles/717900/
+
+https://stackoverflow.com/questions/34902265/android-okhttp-client-newcallrequest-execute-always-return-exception
+https://github.com/square/okhttp
+
+https://www.youtube.com/watch?v=d_ajVpFtql4
+
+
+Удалось добиться прохождения запроса
+после добавления в Манифест строки в тег 
+<application
+        android:usesCleartextTraffic="true"
+
